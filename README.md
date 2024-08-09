@@ -20,8 +20,9 @@ The **HTML Scraper and Saver Tool** is a Python script designed to fetch and sav
    git clone https://github.com/hjcs-dev/Scrapper-Web.git
    cd Scrapper-Web
    
-**Run the code**
+## Run the code
 
+**Open your terminal enter this**
 ```sh
 py main.py
 
